@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 window = tkinter.Tk()
 window.title("Login form")
-window.geometry("500x500")
+window.geometry("300x200")
 window.configure(bg="#1C1C1C")
 
 frame = tkinter.Frame(bg="#1C1C1C")
